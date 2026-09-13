@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,coverage,test_size
+LM rule-based,0.6486486486486487,0.48418115163093733,0.18146718146718147,518
