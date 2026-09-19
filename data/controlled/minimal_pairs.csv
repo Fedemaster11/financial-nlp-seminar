@@ -1,0 +1,25 @@
+id,phenomenon,pair,variant,sentence,intended_label_name,intended_label
+C1,comparative_financial_reasoning,profit_direction,increase,Operating profit increased from EUR 10 million to EUR 15 million.,positive,2
+C2,comparative_financial_reasoning,profit_direction,decrease,Operating profit decreased from EUR 15 million to EUR 10 million.,negative,0
+C3,comparative_financial_reasoning,loss_direction,increase,Operating loss increased from EUR 10 million to EUR 15 million.,negative,0
+C4,comparative_financial_reasoning,loss_direction,decrease,Operating loss decreased from EUR 15 million to EUR 10 million.,positive,2
+C5,comparative_financial_reasoning,cost_direction,increase,Operating costs increased from EUR 10 million to EUR 15 million.,negative,0
+C6,comparative_financial_reasoning,cost_direction,decrease,Operating costs decreased from EUR 15 million to EUR 10 million.,positive,2
+C7,comparative_financial_reasoning,revenue_direction,increase,Revenue increased from EUR 10 million to EUR 15 million.,positive,2
+C8,comparative_financial_reasoning,revenue_direction,decrease,Revenue decreased from EUR 15 million to EUR 10 million.,negative,0
+N1,negation,profitability_negation,affirmative,The company achieved profitability this year.,positive,2
+N2,negation,profitability_negation,negated,The company did not achieve profitability this year.,negative,0
+N3,negation,contract_negation,affirmative,The company secured a major contract.,positive,2
+N4,negation,contract_negation,negated,The company did not secure a major contract.,negative,0
+R1,intention_vs_realization,capacity_expansion,intention,The company plans to expand production capacity next year.,neutral,1
+R2,intention_vs_realization,capacity_expansion,realized,The company expanded production capacity this year.,positive,2
+R3,intention_vs_realization,market_entry,intention,The company is considering entering a new market.,neutral,1
+R4,intention_vs_realization,market_entry,realized,The company entered a new market and began commercial sales.,positive,2
+X1,contrast_composition,revenue_profit,both_positive,Revenue increased and operating profit increased.,positive,2
+X2,contrast_composition,revenue_profit,revenue_up_profit_down,"Revenue increased, but operating profit decreased.",neutral,1
+X3,contrast_composition,revenue_profit,revenue_down_profit_up,"Revenue decreased, but operating profit increased.",neutral,1
+X4,contrast_composition,revenue_profit,both_negative,Revenue decreased and operating profit decreased.,negative,0
+U1,uncertainty,positive_uncertainty,certain,Operating profit will increase next year.,positive,2
+U2,uncertainty,positive_uncertainty,uncertain,Operating profit may increase next year.,positive,2
+U3,uncertainty,negative_uncertainty,certain,Operating profit will decrease next year.,negative,0
+U4,uncertainty,negative_uncertainty,uncertain,Operating profit may decrease next year.,negative,0
