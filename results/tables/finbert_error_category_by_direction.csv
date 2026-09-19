@@ -1,0 +1,7 @@
+error_category,negative_to_neutral,negative_to_positive,neutral_to_negative,neutral_to_positive,positive_to_negative,positive_to_neutral
+comparative_financial_reasoning,0,3,0,0,4,0
+contrast_composition,0,0,1,0,0,0
+future_expectation_realization,0,0,1,5,0,1
+implicit_business_event_consequence,3,0,0,0,1,4
+neutral_boundary_lexical_overinterpretation,0,0,2,9,0,0
+recommendation_benchmark_semantics,0,0,0,0,0,1

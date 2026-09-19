@@ -1,0 +1,19 @@
+model,true_class,predicted_as,count,share_of_true_class
+Rule-based,negative,neutral,40,0.6349206349206349
+Rule-based,negative,positive,2,0.031746031746031744
+Rule-based,neutral,negative,13,0.040372670807453416
+Rule-based,neutral,positive,20,0.062111801242236024
+Rule-based,positive,negative,10,0.07518796992481203
+Rule-based,positive,neutral,97,0.7293233082706767
+TF-IDF + Logistic Regression,negative,neutral,23,0.36507936507936506
+TF-IDF + Logistic Regression,negative,positive,10,0.15873015873015872
+TF-IDF + Logistic Regression,neutral,negative,1,0.003105590062111801
+TF-IDF + Logistic Regression,neutral,positive,4,0.012422360248447204
+TF-IDF + Logistic Regression,positive,negative,1,0.007518796992481203
+TF-IDF + Logistic Regression,positive,neutral,55,0.41353383458646614
+Finance BERT,negative,neutral,3,0.047619047619047616
+Finance BERT,negative,positive,3,0.047619047619047616
+Finance BERT,neutral,negative,4,0.012422360248447204
+Finance BERT,neutral,positive,14,0.043478260869565216
+Finance BERT,positive,negative,5,0.03759398496240601
+Finance BERT,positive,neutral,6,0.045112781954887216

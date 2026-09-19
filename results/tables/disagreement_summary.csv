@@ -1,0 +1,9 @@
+category,count,percentage
+all_correct,285,0.5501930501930502
+finbert_tfidf_correct,118,0.2277992277992278
+finbert_only_correct,46,0.0888030888030888
+finbert_rule_correct,34,0.06563706563706563
+tfidf_rule_correct,15,0.02895752895752896
+all_wrong,12,0.023166023166023165
+tfidf_only_correct,6,0.011583011583011582
+rule_only_correct,2,0.003861003861003861

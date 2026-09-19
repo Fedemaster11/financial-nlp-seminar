@@ -1,0 +1,7 @@
+error_category,count,share_of_finbert_errors
+neutral_boundary_lexical_overinterpretation,11,0.3142857142857143
+implicit_business_event_consequence,8,0.22857142857142856
+future_expectation_realization,7,0.2
+comparative_financial_reasoning,7,0.2
+contrast_composition,1,0.02857142857142857
+recommendation_benchmark_semantics,1,0.02857142857142857
