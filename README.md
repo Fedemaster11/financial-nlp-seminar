@@ -3,7 +3,7 @@
 Seminar project for **From Neurons to Transformers: Cognitive Principles in AI Research** at Heidelberg University.
 
 **Author:** Federico David Macias Orozco  
-**Matriculation No.:** 4730600
+
 
 ## Project
 
