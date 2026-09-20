@@ -2,8 +2,7 @@
 
 Seminar project for **From Neurons to Transformers: Cognitive Principles in AI Research** at Heidelberg University.
 
-**Author:** Federico David Macias Orozco  
-
+**Author:** Federico David Macias Orozco
 
 ## Project
 
@@ -51,8 +50,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
-
-Then run the scripts from the project directory.
-
-The final seminar paper is stored in the `paper/` folder.
