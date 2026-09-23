@@ -50,3 +50,15 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+
+## AI Tools Declaration
+
+AI-assisted tools were used during the development and documentation of this project:
+
+* **Grammarly:** Used for English grammar, spelling, and language improvements.
+* **ChatGPT (OpenAI):** Used for brainstorming research ideas, planning the experimental methodology, assisting with Python code development and debugging, generating visualizations, and drafting and editing parts of the seminar paper.
+* **Gemini (Google):** Used to compare alternative approaches, gather ideas, and explore different perspectives on the research topic.
+
+These tools supported the research and development process. The project includes experiments carried out using the implemented models, their recorded outputs, and subsequent analysis of the results.
+
